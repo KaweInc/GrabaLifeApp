@@ -92,10 +92,5 @@ module.exports = {
     net: 'empty',
     tls: 'empty',
     child_process: 'empty'
-  },
-  vue: {
-    loaders: {
-      scss: 'style!css!sass'
-    }
   }
 }
